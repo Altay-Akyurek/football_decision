@@ -1,0 +1,15 @@
+Hava Durumu;Derece;Nem;Ruzgar;Futbol_oynanicakmi
+Yagmurlu;Sicak;Yuksek;Yok;Hayir
+Yagmurlu;Sicak;Yuksek;Var;Hayir
+Bulutlu;Sicak;Yuksek;Yok;Evet
+Gunesli;Ilik;Yuksek;Yok;Evet
+Gunesli;Soguk;Normal;Yok;Evet
+Gunesli;Soguk;Normal;Var;Hayir
+Bulutlu;Soguk;Normal;Var;Evet
+Yagmurlu;Ilik;Yuksek;Yok;Hayir
+Yagmurlu;Soguk;Normal;Yok;Evet
+Gunesli;Ilik;Normal;Yok;Evet
+Yagmurlu;Ilik;Normal;Yok;Evet
+Bulutlu;Ilik;Yuksek;Var;Evet
+Bulutlu;Sicak;Normal;Yok;Evet
+Gunesli;Ilik;Yuksek;Var;Hayir
